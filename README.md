@@ -8,4 +8,4 @@ Unfortunately, this is not oLoader. I cannot release that due to contract (and a
 ## Extra Information
 * I used to use this back in late 2017-2018. Then friends of mine (@invaded & NoCode) created a 
 * plugin named **oLoader**, which helped the OrbitGames Team a lot. Not going to disclose how that works
-* thanks for checking this out, if you're a lazy pug then you can use tihs.
+* thanks for checking this out, if you're a lazy pug then you can use this.
